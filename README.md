@@ -170,6 +170,89 @@ https://telos.gofree.pro/
 
 https://telos.gofree.pro/bp.json
 
+```json
+{
+    "producer_account_name": "",
+    "org": {
+        "candidate_name": "",
+        "website": "",
+        "code_of_conduct": "",
+        "ownership_disclosure": "",
+        "email": "",
+        "github_user": "",
+        "chain_resources": "",
+        "other_resources": [],
+        "branding": {
+            "logo_256": "",
+            "logo_1024": "",
+            "logo_svg": ""
+        },
+        "location": {
+            "name": "",
+            "country": "",
+            "latitude": 0,
+            "longitude": 0
+        },
+        "social": {
+            "keybase": "",
+            "telegram": "",
+            "twitter": "",
+            "github": "",
+            "youtube": "",
+            "facebook": "",
+            "hive": "",
+            "reddit": "",
+            "wechat": ""
+        }
+    },
+    "nodes": [
+        {
+            "location": {
+                "name": "",
+                "country": "",
+                "latitude": 0,
+                "longitude": 0
+            },
+            "full": false,
+            "node_type": "producer",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "location": {
+                "name": "",
+                "country": "",
+                "latitude": 0,
+                "longitude": 0
+            },
+            "full": true,
+            "node_type": "seed",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "location": {
+                "name": "",
+                "country": "",
+                "latitude": 0,
+                "longitude": 0
+            },
+            "full": true,
+            "node_type": "query",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": "",
+            "features": [
+                "chain_api"
+            ]
+        }
+    ]
+}
+```
+
+
 https://api.telostest.gofree.pro/
 
 ```json
