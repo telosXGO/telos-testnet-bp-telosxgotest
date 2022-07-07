@@ -285,6 +285,10 @@ https://api.telostest.gofree.pro/
 }
 ```
 
+### Known resources
 
+https://app.telos.net/testnet/rotation
+
+https://eosauthority.com/?network=telostest
 
 
