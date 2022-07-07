@@ -50,7 +50,7 @@ Transaction Data:
 
 http://testnet.telos.net/v2/history/get_schedule
 
-```
+```json
 {
     "query_time_ms": 98.657,
     "timestamp": "2022-07-07T15:03:24.000",
@@ -172,7 +172,7 @@ https://telos.gofree.pro/bp.json
 
 https://api.telostest.gofree.pro/
 
-```
+```json
 {
     "server_version": "26a4d285",
     "chain_id": "1eaa0824707c8c16bd25145493bf062aecddfeb56c736f6ba6397f3195f33c9f",
