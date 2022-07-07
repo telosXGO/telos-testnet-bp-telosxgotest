@@ -1,4 +1,4 @@
-# Telos Rotation
+# Telos Block Producer Registration & Rotation for Top 21 BP
 
 ### Network
 
