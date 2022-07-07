@@ -8,6 +8,18 @@ Testnet
 
 telosxgotest
 
+
+#### Telos Produce
+
+https://api.telos.net/v1/docs/index.html#/testnet/get_v1_testnet_produce__bpAccount_
+
+BP account to add to rotation = telosxgotest
+
+```
+curl -X GET "https://api.telos.net/v1/testnet/produce/telosxgotest" -H "accept: application/json"
+```
+
+
 #### Check Telos Rotation Schedule
 
 https://api.telos.net/v1/docs/index.html#/testnet/get_v1_testnet_rotation_schedule
