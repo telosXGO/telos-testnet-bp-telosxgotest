@@ -50,7 +50,7 @@ Transaction Data:
 
 http://testnet.telos.net/v2/history/get_schedule
 
-
+```
 {
     "query_time_ms": 98.657,
     "timestamp": "2022-07-07T15:03:24.000",
@@ -164,7 +164,7 @@ http://testnet.telos.net/v2/history/get_schedule
         }
     ]
 }
-
+```
 
 https://telos.gofree.pro/
 
