@@ -1,6 +1,8 @@
 # Telos Rotation
 
-## Testnet
+### Network
+
+Testnet
 
 ### Account
 
