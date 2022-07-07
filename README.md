@@ -23,7 +23,9 @@ Transaction ID: 79eb36789ef4ef043eb4d105e6492cc22e4b031577df754e7e311b469df533d6
 https://eosauthority.com/transaction/79eb36789ef4ef043eb4d105e6492cc22e4b031577df754e7e311b469df533d6?network=telostest
 
 
+
 Transaction Data:
+
 ```
 {
   "producer": "telosxgotest",
@@ -32,5 +34,13 @@ Transaction Data:
   "location": 8989
 }
 ```
+
+
+http://testnet.telos.net/v2/history/get_schedule
+
+```
+{"query_time_ms":98.657,"timestamp":"2022-07-07T15:03:24.000","block_num":181118370,"version":25828,"producers":[{"producer_name":"theteloscrew","block_signing_key":"PUB_K1_7iwV7UbgPGAbJiDNTKzdznrmr3xTurVmRoERSrGveEekzrBc7y","legacy_key":"EOS7iwV7UbgPGAbJiDNTKzdznrmr3xTurVmRoERSrGveEem25FgPt"},{"producer_name":"telosindiabp","block_signing_key":"PUB_K1_7JxMFPmNEULcRtZLSoD8Sst86p137JiWd7xVaoo5JVs8FiSiB1","legacy_key":"EOS7JxMFPmNEULcRtZLSoD8Sst86p137JiWd7xVaoo5JVs8LGkvbD"},{"producer_name":"blockbastrds","block_signing_key":"PUB_K1_7i15hVWpcEMhFisZdiWNJAogjNsDJGDvrqtGYVfPfmHVLj9wCj","legacy_key":"EOS7i15hVWpcEMhFisZdiWNJAogjNsDJGDvrqtGYVfPfmHVN8erEN"},{"producer_name":"bp.yknot","block_signing_key":"PUB_K1_8CuSTRG2c8kxTpmnaGKLSsBG6eBY4kyZrsxoN1yrFrPPLyGGp7","legacy_key":"EOS8CuSTRG2c8kxTpmnaGKLSsBG6eBY4kyZrsxoN1yrFrPPPpm6HL"},{"producer_name":"cryptolions1","block_signing_key":"PUB_K1_7bLioNJeJWTcpXdcK7rLSv54AuQ3wyYHcwi647hBNkZs8Q8ZEf","legacy_key":"EOS7bLioNJeJWTcpXdcK7rLSv54AuQ3wyYHcwi647hBNkZs933NHa"},{"producer_name":"bigirontest1","block_signing_key":"PUB_K1_5ZkoKgXZquq4uGz6D7x46etKuv9FVu4YuLxjwTnXw2ExvevkTR","legacy_key":"EOS5ZkoKgXZquq4uGz6D7x46etKuv9FVu4YuLxjwTnXw2Ey3AWM78"},{"producer_name":"dappetizerbp","block_signing_key":"PUB_K1_8A4j4pCsPZwsCJwNqL8mYZXyGWFgEMuAgkmVtK8JAjujQMxSk7","legacy_key":"EOS8A4j4pCsPZwsCJwNqL8mYZXyGWFgEMuAgkmVtK8JAjujVYxCtX"},{"producer_name":"nation.tlos","block_signing_key":"PUB_K1_6Fat9KYfu22yxWJuwjXeWKhCnFxj4GaCQJ7pwjLwpU8XviGn3q","legacy_key":"EOS6Fat9KYfu22yxWJuwjXeWKhCnFxj4GaCQJ7pwjLwpU8XxVzjyi"},{"producer_name":"telosculture","block_signing_key":"PUB_K1_5fBSwHdojfqEwgbkMbXvA7EWDCfvW67wq8r1Bi5aMMWXUFsMCb","legacy_key":"EOS5fBSwHdojfqEwgbkMbXvA7EWDCfvW67wq8r1Bi5aMMWXW7xrQ5"},{"producer_name":"cryptobloksx","block_signing_key":"PUB_K1_8KedPLLDaMEb842TqSD1f6ibTE2Dv5KmcnJquNKW5mJpNiRwfV","legacy_key":"EOS8KedPLLDaMEb842TqSD1f6ibTE2Dv5KmcnJquNKW5mJpUXiA6r"},{"producer_name":"gbiotestnet1","block_signing_key":"PUB_K1_5i18g3iNRha2mjNAu6QrTwKAigXVDVGLxSg7zXK5tBVdy8E7aw","legacy_key":"EOS5i18g3iNRha2mjNAu6QrTwKAigXVDVGLxSg7zXK5tBVe2Ey93F"},{"producer_name":"kainosblkpro","block_signing_key":"PUB_K1_873Kgzu6hQnxyXFzvP5iDJpmbpxJPgEJvfe5wczNaWLQ57ag6T","legacy_key":"EOS873Kgzu6hQnxyXFzvP5iDJpmbpxJPgEJvfe5wczNaWLQ5W1bVN"},{"producer_name":"nodenodeorg1","block_signing_key":"PUB_K1_4v61yubhr7A7VhB7vGb6CMXCaaucz3w7SKMfYipCD6NPTokVhh","legacy_key":"EOS4v61yubhr7A7VhB7vGb6CMXCaaucz3w7SKMfYipCD6NPZwjknQ"},{"producer_name":"pandabloks","block_signing_key":"PUB_K1_7XDXRX9gton3J37jDke7CbSHghzp5a4KrjfkJKHxXR1MLUwoVq","legacy_key":"EOS7XDXRX9gton3J37jDke7CbSHghzp5a4KrjfkJKHxXR1MRyxNVH"},{"producer_name":"bp.boid","block_signing_key":"PUB_K1_7c9DJqf55QgPFkawXAy7xe1Z2ok9e97AiKGJt2DaUWQ1s7Lw6o","legacy_key":"EOS7c9DJqf55QgPFkawXAy7xe1Z2ok9e97AiKGJt2DaUWQ1sax6e8"},{"producer_name":"telosuknodes","block_signing_key":"PUB_K1_7Ffjbj2vQ64YkBieyB5qMUcv4MQze2YzNypsq6uCQYT6fVaxiK","legacy_key":"EOS7Ffjbj2vQ64YkBieyB5qMUcv4MQze2YzNypsq6uCQYT6iHovCb"},{"producer_name":"telosarabia1","block_signing_key":"PUB_K1_7joDqL9aJbRWJZJgZxkSobxWwMJke3Ku2a9ssxaBv2RxZCbGYX","legacy_key":"EOS7joDqL9aJbRWJZJgZxkSobxWwMJke3Ku2a9ssxaBv2Rxcf2cPp"},{"producer_name":"amsterdam","block_signing_key":"PUB_K1_5czbkWLVZR4nb1YwrJfNWdyC8hdeTXgX2fP73bbxmz3Rn9jfLj","legacy_key":"EOS5czbkWLVZR4nb1YwrJfNWdyC8hdeTXgX2fP73bbxmz3RrniMHV"},{"producer_name":"votedutcheos","block_signing_key":"PUB_K1_7LcjYvZRUoVeupeYCyKyVYh7ZH3xPfD6kvsc4P5Gi1BmNe1CJj","legacy_key":"EOS7LcjYvZRUoVeupeYCyKyVYh7ZH3xPfD6kvsc4P5Gi1BmQWFty5"},{"producer_name":"telosdacnode","block_signing_key":"PUB_K1_7d8q5VabCyECzn21iEh8zeciPBXyZjGKXJ76DtwecUFMxUxUsy","legacy_key":"EOS7d8q5VabCyECzn21iEh8zeciPBXyZjGKXJ76DtwecUFMyoGnFT"},{"producer_name":"telosxgotest","block_signing_key":"PUB_K1_6bT7S7uwCB8nqaEpRtLymm47nvpuvtHHXUgzKL7sFMLjuWRutK","legacy_key":"EOS6bT7S7uwCB8nqaEpRtLymm47nvpuvtHHXUgzKL7sFMLjvZknxj"}]}
+```
+
 
 
