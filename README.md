@@ -1,0 +1,1 @@
+# telos-rotation-testnet-telosxgotest
