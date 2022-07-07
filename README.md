@@ -6,10 +6,10 @@ Testnet
 
 ### Account
 
-telosxgotest
+`telosxgotest`
 
 
-### Block Producer registration for account 'telosxgotest'
+### Block Producer registration 
 
 #### Regproducer command
 
@@ -22,7 +22,6 @@ cleos -u https://telos-testnet.eosphere.io system regproducer telosxgotest EOS6b
 Transaction ID: 79eb36789ef4ef043eb4d105e6492cc22e4b031577df754e7e311b469df533d6
 
 https://eosauthority.com/transaction/79eb36789ef4ef043eb4d105e6492cc22e4b031577df754e7e311b469df533d6?network=telostest
-
 
 
 Transaction Data:
@@ -55,7 +54,6 @@ https://api.telos.net/v1/docs/index.html#/testnet/get_v1_testnet_rotation_schedu
 ```
 curl -X GET "https://api.telos.net/v1/testnet/rotation_schedule" -H "accept: application/json")
 ```
-
 ##### Way 2
 
 http://testnet.telos.net/v2/history/get_schedule
